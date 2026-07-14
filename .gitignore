@@ -1,0 +1,10 @@
+# Compiled binaries
+sistema_licencas
+sistema_licencas.exe
+
+# Runtime data and generated reports
+dados/
+relatorios/
+
+# OS files
+.DS_Store
